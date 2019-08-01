@@ -1,0 +1,1 @@
+DNN1.rar -- is the DNN  model trained using "adagrad" learner(optimizer)
